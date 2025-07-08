@@ -1,0 +1,1 @@
+print("this is trading2.py")
